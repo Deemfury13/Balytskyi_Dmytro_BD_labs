@@ -7,7 +7,7 @@ footer: "ECL 2.0 Licensed | Copyright © [Балицький]"
 ---
 
 
-**Виконали** 
+**Виконав** 
 
 студент 2-го курсу, групи ІО-34<span padding-right:5em></span> **[Дмитро Балицький](https://t.me/Deemfury)**
 
